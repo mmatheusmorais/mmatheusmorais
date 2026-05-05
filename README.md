@@ -53,13 +53,6 @@ Atuo com diferentes áreas da tecnologia, incluindo desenvolvimento com JavaScri
 </div>
 
 ---
-
-## // contribuições (gráfico + animação 🐍)
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true" />
-
 <br>
 
 <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg" />
