@@ -13,11 +13,6 @@ Atuo com diferentes áreas da tecnologia, incluindo desenvolvimento com JavaScri
 
 ![Python](https://img.shields.io/badge/Python-0C447C?style=flat-square\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-633806?style=flat-square\&logo=javascript\&logoColor=FAC775)
-![TypeScript]([https://img.shields.io/badge/TypeScript-2C5E9E?style=flat-square&logo=typ(https://img.shields.io/badge/Python-0C447C?style=flat-square&logo=python&logoColor=white)](https://img.shields.io/badge/TypeScript-2C5E9E?style=flat-square&logo=typ%28https://img.shields.io/badge/Python-0C447C?style=flat-square&logo=python&logoColor=white%29)
-![JavaScript](https://img.shields.io/badge/JavaScript-633806?style=flat-square\&logo=javascript\&logoColor=FAC775)
-![TypeScript](https://img.shields.io/badge/TypeScript-2C5E9E?style=flat-square\&logo=typescript\&logoColor=white)
-![C](https://img.shields.io/badge/C-003B57?style=flat-square\&logo=c\&logoColor=white)
-
 ---
 
 ### **Front-End**
