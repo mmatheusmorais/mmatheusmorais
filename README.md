@@ -55,7 +55,6 @@ Atuo com diferentes áreas da tecnologia, incluindo desenvolvimento com JavaScri
 ---
 <br>
 
-<img src="https://raw.githubusercontent.com/mmatheusmorais/mmatheusmorais/output/github-contribution-grid-snake.svg" />
 
 </div>
 
