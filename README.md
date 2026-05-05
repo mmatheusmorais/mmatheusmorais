@@ -1,4 +1,4 @@
-**# Olá, eu sou Matheus Morais! 👋
+# Olá, eu sou Matheus Morais! 👋
 
 Estudante de Engenharia de Software · Front-End · Python · IoT · Edge Computing · São Paulo, Brasil
 
@@ -36,4 +36,4 @@ Também sou certificado em IoT, com interesse em automações e sistemas embarca
 **Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
