@@ -55,7 +55,7 @@ Atuo com diferentes áreas da tecnologia, incluindo desenvolvimento com JavaScri
 ---
 <br>
 
-<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/mmatheusmorais/mmatheusmorais/output/github-contribution-grid-snake.svg" />
 
 </div>
 
