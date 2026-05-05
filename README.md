@@ -9,7 +9,7 @@
 Estudante de Engenharia de Software na **FIAP**, desenvolvendo projetos práticos e explorando o que há de mais moderno em tecnologia.
 Atuo com diferentes áreas da tecnologia, incluindo desenvolvimento com JavaScript e Python, além de projetos envolvendo IoT e Edge Computing, sempre explorando novas possibilidades e aprendizados.s possibilidades e aprendizados.
 
--### **Linguagens**
+## // **Linguagens**
 
 ![Python](https://img.shields.io/badge/Python-0C447C?style=flat-square\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-633806?style=flat-square\&logo=javascript\&logoColor=FAC775)
