@@ -37,9 +37,7 @@ Atuo com diferentes áreas da tecnologia, incluindo desenvolvimento com JavaScri
 ### **Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-993C1D?style=flat-square\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1565C0?style=flat-square\&logo=docker\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0C447C?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![Linux]([https://img.shields.io/badge/Linux-9E7C00?style=flat-square&logo=linux&logoColor=w](https://img.shields.io/badge/Linux-9E7C00?style=flat-square&logo=linux&logoColor=w)
 
 ## // estatísticas
 
@@ -50,7 +48,7 @@ Atuo com diferentes áreas da tecnologia, incluindo desenvolvimento com JavaScri
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mmatheusmorais&theme=tokyonight&hide_border=true"/>
 
 </div>
 
