@@ -44,8 +44,8 @@ Me considero uma pessoa **organizada**, **analítica** e com facilidade de apren
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurJircik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurJircik&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mmatheusmorais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmatheusmorais&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -53,10 +53,10 @@ Me considero uma pessoa **organizada**, **analítica** e com facilidade de apren
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmatheusmorais)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.jircik@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmatheusmorais@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArthurJircik&color=58A6FF&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mmatheusmorais&color=58A6FF&style=flat-square&label=Profile+Views" />
 </div>
